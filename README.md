@@ -1,7 +1,8 @@
-# Descrição Geral
+# Informações Gerais
 Python-Camp: Aplicações na Física, 2 a 6 março/2026
 
 
+# Programação
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **9:00-10:15** | Introdução | Hands-on | Hands-on | Hands-on | Hands-on |
