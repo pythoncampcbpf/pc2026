@@ -2,9 +2,11 @@
 
 Python-Camp: Aplicações na Física, 2 a 6 março/2026
 
-Pré-requisito: ter conhecimentos básicos de programação em python. Trazer seu notebook pessoal.
+Pré-requisito: ter conhecimentos básicos de programação em python. 
 
-Inscrição simbólica de R$50 a ser paga no $1^o$ dia do evento
+É necessário que cada inscrito traga seu notebook pessoal.
+
+Inscrição simbólica de R$50 a ser paga no 1ºdia do evento
  
 # Programação
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
