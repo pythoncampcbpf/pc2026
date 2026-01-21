@@ -4,4 +4,4 @@
 **Ao usar a chave acima ira aparecer o nome:** 
 > Anna Chataignier
 
-Retorne ao site principal: https://github.com/pythoncampcbpf/pc2026/wiki
+Para retornar ao site principal acesse: https://github.com/pythoncampcbpf/pc2026/wiki
