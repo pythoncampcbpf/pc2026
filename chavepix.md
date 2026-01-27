@@ -1,5 +1,5 @@
-**Chave-pix (aleatória) para pagamento da inscrição no python-camp:** 
-> bb6ef8e4-2c5a-4e67-a551-503084cff31c
+**Chave-pix (email) para pagamento da inscrição no python-camp:** 
+> pythoncamp@cbpf.br
 
 
 **Insira o valor de R$50 e confirme que apareceu o nome:** 
