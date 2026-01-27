@@ -6,7 +6,7 @@
 > Anna Chataignier
 
 Enviar o comprovante para pythoncamp@cbpf.br com assunto:
-**"Comprovante de Pagamento - Nome Completo"**
+"Comprovante de Pagamento - Nome Completo"
 ---
 
 Para retornar ao site principal, acesse: [https://github.com/pythoncampcbpf/pc2026/wiki](https://github.com/pythoncampcbpf/pc2026/wiki)
