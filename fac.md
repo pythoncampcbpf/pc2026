@@ -16,9 +16,9 @@
 
 * **O evento terá transmissão online ou formato híbrido?** Não. O evento é realizado exclusivamente de forma presencial.
 * **Onde posso almoçar nas proximidades do CBPF?** O evento não fornece almoço. Algumas opções próximas são:
-* **UNIRIO:** Restaurante universitário e cantinas com preços acessíveis ao lado do CBPF.
-* **Shopping Rio Sul:** Grande variedade de restaurantes (5 min de caminhada).
-* **Vila em frente ao CBPF:** Opções de comida caseira e quentinhas com bom custo-benefício.
+> **UNIRIO:** Restaurante universitário e cantinas com preços acessíveis ao lado do CBPF.
+> **Shopping Rio Sul:** Grande variedade de restaurantes (5 min de caminhada).
+> **Vila em frente ao CBPF:** Opções de comida caseira e quentinhas com bom custo-benefício.
 
 
 ### 💰 Inscrições e Auxílios
