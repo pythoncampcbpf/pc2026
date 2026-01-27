@@ -1,4 +1,4 @@
-**Chave-pix (email) para pagamento da inscrição no python-camp:** 
+**Chave-pix (email do evento) para pagamento da inscrição no python-camp:** 
 > pythoncamp@cbpf.br
 
 
