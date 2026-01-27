@@ -19,7 +19,7 @@
 
 > **UNIRIO:** Restaurante universitário e cantinas com preços acessíveis ao lado do CBPF.
 
-> **Shopping Rio Sul:** Grande variedade de restaurantes (5 min de caminhada).
+> **Shopping Rio Sul:** Grande variedade de restaurantes (~5 min de caminhada).
 
 > **Vila em frente ao CBPF:** Opções de comida caseira e quentinhas com bom custo-benefício.
 
