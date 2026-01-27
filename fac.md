@@ -1,6 +1,6 @@
 # ❓ FAQ (Perguntas Frequentes)
 
-### 💰 Inscrições e Auxílios
+### Inscrições e Auxílios
 
 * **O evento oferece auxílio para transporte, hospedagem ou alimentação?** Não. O evento não dispõe de recursos adicionais para fornecer ajuda de custo, deslocamento, estadia ou refeições. 
 * **O que acontece se eu pagar e não houver mais vagas?** As vagas são preenchidas por ordem de confirmação do pagamento e envio do comprovante. Caso o limite seja atingido antes do processamento, o valor pago será integralmente estornado.
