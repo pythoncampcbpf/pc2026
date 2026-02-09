@@ -27,6 +27,7 @@
 ### ⚠️ Inscrições e Auxílios
 
 * **O evento oferece auxílio para transporte, hospedagem ou alimentação?** Não. O evento não dispõe de recursos para fornecer ajuda de custo, deslocamento, estadia ou refeições.
+* **Haverá coffee-break?** Sim, conforme tabela na programação.
 * **O que acontece se eu pagar e não houver mais vagas?** As vagas são preenchidas por ordem de confirmação do pagamento e envio do comprovante. Caso o limite seja atingido antes do processamento, o valor pago será integralmente estornado.
 * **Haverá lista de espera?** Sim, se necessário.
 * **Posso trocar de módulo após a inscrição?** A alteração de módulo está condicionada à existência de vagas e deve ser formalmente solicitada via `pythoncamp@cbpf.br` para análise.
